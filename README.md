@@ -40,8 +40,8 @@
   <img align="center" alt="Juan-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
 
-<h2 align="center">🐍 Snake Contributions</h2>
-
-<p align="center">
-  <img src="https://github.com/juanmendonca07-hub/juanmendonca07-hub/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuanMendonca/JuanMendonca/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuanMendonca/JuanMendonca/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JuanMendonca/JuanMendonca/output/github-contribution-grid-snake.svg">
+</picture>
